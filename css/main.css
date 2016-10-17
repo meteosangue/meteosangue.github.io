@@ -134,9 +134,6 @@ nav {
 }
 
 @media (max-width:500px) {
-    main {
-        text-align: justify;
-    }
 
     .github-corner:hover .octo-arm {
         animation: none;
